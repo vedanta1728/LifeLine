@@ -1,0 +1,8 @@
+{
+  "name": "LifeLine",
+  "description": "Offline-first emergency assistant providing fast access to verified first-aid guidance, SOS calling, and emergency messaging even without internet connectivity.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
