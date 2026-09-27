@@ -20,3 +20,7 @@ export default defineConfig(() => {
     },
   };
 });
+export default defineConfig({
+  base: '/LifeLine/',
+  // ...rest of your existing config
+})
